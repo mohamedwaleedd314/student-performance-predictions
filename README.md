@@ -121,7 +121,3 @@ plt.plot([y_test.min(), y_test.max()],
 - Deploy as a **web app (Flask/Streamlit)** for student input and prediction.
 
 ---
-
-## 👨‍💻 Author
-- **Mohamed Waleed**  
-AI & Software Engineer | Data Science & Machine Learning Enthusiast  
